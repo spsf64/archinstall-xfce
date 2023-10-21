@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Appearance
+Comment=Set visual appearance
+Icon=ayatana-settings
+Exec=lxappearance 
+Terminal=false
+Type=Application
+Path=
+StartupNotify=false

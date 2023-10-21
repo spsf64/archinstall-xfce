@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Gmail
+Comment=Organize your Emails online with Google Account
+Icon=gmail
+URL=https://mail.google.com/
+Categories=Office;GTK;

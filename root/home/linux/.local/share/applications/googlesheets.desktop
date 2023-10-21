@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Sheets
+Comment=Edit your Spreasheets online with Google Account
+Icon=google-sheets
+URL=https://docs.google.com/spreadsheets/
+Categories=Office;GTK;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=MS Office 365 Web
+Comment=Edit your Office Docs online with Microsoft Account
+Icon=ms-office
+URL=https://www.office.com/
+Categories=Office;GTK;

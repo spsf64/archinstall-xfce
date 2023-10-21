@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Meet
+Comment=Create and connect to online meetings with Google Account
+Icon=google-meet
+URL=https://meet.google.com/
+Categories=Office;GTK;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Keep
+Comment=Create and edit your Notes online with Google Account
+Icon=google-keep
+URL=https://keep.google.com/
+Categories=Office;GTK;

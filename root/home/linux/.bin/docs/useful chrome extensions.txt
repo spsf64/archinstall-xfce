@@ -1,0 +1,17 @@
+Chrome extensions
+
+
+AutoScroll: Mouse customizable autoscroll support to Chrome
+https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan
+
+Bitwarden: Password manager
+https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb
+
+
+Dark Reader: Dark mode for every website
+https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+
+ 
+Google Mail Checker: Displays the number of unread messages in your Google Mail inbox
+https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff
+

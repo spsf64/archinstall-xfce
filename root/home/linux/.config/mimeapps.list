@@ -1,0 +1,35 @@
+[Added Associations]
+text/plain=org.xfce.mousepad.desktop;gvim.desktop;geany.desktop;
+application/x-theme=org.xfce.mousepad.desktop;
+text/css=org.xfce.mousepad.desktop;
+application/x-desktop=org.xfce.mousepad.desktop;
+image/png=org.xfce.ristretto.desktop;
+application/x-zstd-compressed-tar=pamac-install.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+x-scheme-handler/mailto=xfce4-mail-reader.desktop;
+inode/directory=xfce4-file-manager.desktop;
+x-scheme-handler/trash=xfce4-file-manager.desktop;
+image/jpeg=org.xfce.ristretto.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=appimagekit_b6a500095b6951f837c8c2e406e3154d-LibreOffice.desktop;appimagekit_b5fbdbf1d950623371acf807bf999eed-LibreOffice.desktop;appimagekit_22637ed40b148b1dde3ee27741d090a6-ONLYOFFICE_Desktop_Editors.desktop;appimagekit_9d8cf222265edf8e198b33997b4dc8cf-LibreOffice.desktop;
+application/xml=org.xfce.mousepad.desktop;
+application/vnd.oasis.opendocument.spreadsheet=appimagekit_b5fbdbf1d950623371acf807bf999eed-LibreOffice.desktop;
+application/pdf=xpdf.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=appimagekit_9d8cf222265edf8e198b33997b4dc8cf-LibreOffice.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=appimagekit_9d8cf222265edf8e198b33997b4dc8cf-LibreOffice.desktop;
+application/vnd.oasis.opendocument.text=appimagekit_9d8cf222265edf8e198b33997b4dc8cf-LibreOffice.desktop;
+
+[Default Applications]
+application/x-zstd-compressed-tar=pamac-install.desktop
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+x-scheme-handler/mailto=xfce4-mail-reader.desktop
+inode/directory=xfce4-file-manager.desktop
+x-scheme-handler/trash=xfce4-file-manager.desktop
+application/vnd.openxmlformats-officedocument.presentationml.presentation=appimagekit_9d8cf222265edf8e198b33997b4dc8cf-LibreOffice.desktop
+application/vnd.oasis.opendocument.spreadsheet=appimagekit_b5fbdbf1d950623371acf807bf999eed-LibreOffice.desktop
+application/pdf=xpdf.desktop
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=appimagekit_9d8cf222265edf8e198b33997b4dc8cf-LibreOffice.desktop
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=appimagekit_9d8cf222265edf8e198b33997b4dc8cf-LibreOffice.desktop
+application/vnd.oasis.opendocument.text=appimagekit_9d8cf222265edf8e198b33997b4dc8cf-LibreOffice.desktop

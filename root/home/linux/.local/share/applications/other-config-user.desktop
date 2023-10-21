@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=User & Groups
+Comment=Config User and Groups
+Icon=xfsm-switch-user
+Exec=lxqt-admin-user
+Terminal=false
+Type=Application
+
+Path=
+StartupNotify=false

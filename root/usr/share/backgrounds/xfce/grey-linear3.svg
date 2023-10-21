@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xapRights="http://ns.adobe.com/xap/1.0/rights/"
+   xmlns:x="adobe:ns:meta/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="3840px"
+   height="2160px"
+   id="svg34"
+   sodipodi:docname="grey-linear3.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2284"
+     inkscape:window-height="1685"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="0.2032932"
+     inkscape:cx="1024.7413"
+     inkscape:cy="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg34" />
+  <metadata
+     id="metadata2">
+<?xpacket begin="" id=""?>    <x:xmpmeta>
+      <metadata>
+        <rdf:RDF>
+          <rdf:Description
+             rdf:about="">
+            <xapRights:Marked>True</xapRights:Marked>
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <xapRights:WebStatement
+               rdf:resource="http://www.xmple.com/wallpaper/grey-linear-gradient-black-3840x2160-c2-2f4f4f-000000-a-300-f-14-image/" />
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <xapRights:UsageTerms>
+              <rdf:Alt>
+                <rdf:li
+                   xml:lang="en">This work is licensed under a &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/a&gt;.</rdf:li>
+              </rdf:Alt>
+            </xapRights:UsageTerms>
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <dc:title>
+              <rdf:Alt>
+                <rdf:li
+                   xml:lang="en">grey linear gradient black dark slate gray 3840x2160 #2f4f4f #000000 300°</rdf:li>
+              </rdf:Alt>
+            </dc:title>
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <cc:license
+               rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <cc:attributionName>xmple.com</cc:attributionName>
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <cc:morePermissions
+               rdf:resource="http://www.xmple.com" />
+          </rdf:Description>
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title>grey linear gradient black dark slate gray 3840x2160 #2f4f4f #000000 300°</dc:title>
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+    </x:xmpmeta>
+<?xpacket end="r"?>  </metadata>
+  <title
+     id="title4">grey linear gradient black dark slate gray 3840x2160 #2f4f4f #000000 300°</title>
+  <desc
+     id="desc6">grey linear gradient black dark slate gray 3840x2160 #2f4f4f #000000 300°</desc>
+  <style
+     type="text/css"
+     id="style8"><![CDATA[.x{font:20px verdana;fill:#fff;stroke:#555;stroke-width:20px;opacity:0.35;}.o{stroke:none;opacity:0.01;}]]></style>
+  <defs
+     id="defs15">
+    <linearGradient
+       id="p1"
+       x1="66.237976320958%"
+       y1="100%"
+       x2="33.762023679042%"
+       y2="0%">
+      <stop
+         offset="0%"
+         style="stop-color:#2f4f4f;stop-opacity:1"
+         id="stop10" />
+      <stop
+         offset="100%"
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop12" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="3840"
+     height="2160"
+     x="0"
+     y="0"
+     fill="#2f4f4f"
+     id="rect17" />
+  <rect
+     width="3840"
+     height="2160"
+     x="0"
+     y="0"
+     id="rect19"
+     style="fill-opacity:0.57368422;fill:#678eb0;opacity:0.345"
+     fill="url(#p1)" />
+  <path
+     class="x o"
+     d="M5 5h2v1H6v1h1v1H5zM4 3h4v1h1v5H8v1H4V9H3V4h1v5h4V4H4zm7 1h1v2h1V4h1v2h-1v1h1v2h-1V7h-1v2h-1V7h1V6h-1zm4 0h5v5h-1V5h-1v4h-1V5h-1v4h-1zm6 0h3l-1 1h-1v3h1V5l1-1v5h-2v2h-1zm4-2h1v6h1v1h-2zm3 2h3l-1 1h-1v1h1V5l1-1v3h-2v1h2v1h-3V4zm4 4h1v1h-1zm2-4h3v1h-2v3h2v1h-3zm4 0h3v5h-3l1-1h1V5h-1v3l-1 1zm4 0h5v5h-1V5h-1v4h-1V5h-1v4h-1z"
+     id="path21" />
+  <text
+     x="4"
+     y="2154"
+     class="x o"
+     id="text23">© xmple.com</text>
+  <a
+     xlink:href="https://www.xmple.com"
+     id="a27">
+    <text
+       text-anchor="end"
+       x="3830"
+       y="22"
+       class="x o"
+       id="text25">xmple.com</text>
+  </a>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#1793d1;stroke-width:3.375"
+     d="m 2956.5624,990.92709 c -29.5987,72.51521 -47.4525,120.01151 -80.3925,190.37021 20.2163,21.4043 44.9888,46.2071 85.2188,74.358 -43.2675,-17.8065 -72.7313,-35.5557 -94.8038,-54.108 -42.1537,87.9423 -108.27,213.0908 -242.2609,453.8363 105.3034,-60.7838 186.9784,-98.2125 263.0509,-112.5225 -3.2737,-14.04 -5.0962,-29.295 -4.9612,-45.1575 l 0.102,-3.2738 c 1.6537,-67.4662 36.7875,-119.4075 78.3675,-115.8975 41.58,3.51 73.9125,61.1888 72.225,128.655 -0.3038,12.69 -1.7213,24.8738 -4.2188,36.18 75.2288,14.7488 156.06,52.0763 259.875,112.0163 -20.4862,-37.6988 -38.8462,-71.6175 -56.295,-103.9838 -27.5062,-21.33 -56.1262,-49.0725 -114.6487,-79.11 40.1962,10.4625 69.0862,22.4775 91.53,35.9775 -177.525,-330.5407 -191.9363,-374.4562 -252.7875,-517.31996 z m 20.2838,668.92501 18.495,-4.5563 -2.2613,218.1938 -18.765,3.1725 z m 49.1737,65.1375 16.2338,-7.155 -2.0925,156.465 -15.6263,3.2062 z m -3.0375,-56.43 13.1625,-10.5638 10.6313,11.9813 -13.1625,10.8337 z m 49.5788,53.5612 18.4612,-3.7125 -0.3712,32.7038 c 0,1.4175 10.6312,-36.5513 59.4337,-35.7075 47.3513,0.27 54.6075,36.72 54.2025,44.8875 l -1.0462,115.02 -16.2,3.4762 1.5187,-113.6025 c 0.2363,-3.3075 -6.9187,-31.3537 -40.3987,-31.455 -33.48,-0.1005 -57.0038,24.165 -57.1725,39.6563 l -1.1813,100.0687 -18.765,4.86 z m 291.465,154.035 -18.495,3.7125 0.405,-32.7037 c 0,-1.3838 -10.665,36.5512 -59.4338,35.7075 -47.3512,-0.27 -54.6075,-36.72 -54.2362,-44.8875 l 1.08,-115.02 19.6087,-3.915 -1.3162,113.6025 c -0.034,3.105 3.3075,31.8262 36.7875,31.9275 33.4462,0.102 57.2062,-20.0475 57.78,-50.355 l 1.0462,-89.64 18.2925,-4.6238 z m 38.3062,-155.3175 -13.0612,10.0575 48.6337,64.4288 -53.8987,74.4525 13.5675,10.0912 50.6587,-69.12 50.2538,70.7738 12.825,-10.0575 -53.865,-75.6675 44.685,-61.1888 -13.2975,-11.34 -40.7363,56.6325 z m 133.2113,145.26 v -13.9387 h -5.1638 v -1.8563 h 12.42 v 1.8563 h -5.1637 v 13.9387 z m 9.4162,0 v -15.795 h 3.1388 l 3.6787,11.1713 c 0.3713,1.0462 0.6075,1.8225 0.7425,2.3287 0.2025,-0.5737 0.4725,-1.3837 0.8775,-2.4975 l 3.7125,-11.0025 h 2.8013 v 15.795 h -1.9913 v -13.1962 l -4.5562,13.1962 h -1.8563 l -4.5562,-13.4662 v 13.4662 z m -263.385,-265.4437 v -13.905 h -5.1637 v -1.8563 h 12.42 v 1.8563 h -5.1975 v 13.905 z m 8.3363,0 v -15.7613 h 3.105 l 3.7125,11.1713 c 0.3375,1.0462 0.5737,1.8225 0.7425,2.3287 0.1687,-0.5737 0.4725,-1.3837 0.8437,-2.4975 l 3.7463,-11.0025 h 2.7675 v 15.7613 h -1.9575 v -13.1963 l -4.59,13.1963 h -1.8563 l -4.5225,-13.4325 v 13.4325 z"
+     id="path873" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#4d4d4d;stroke-width:3.375"
+     d="m 2440.3494,1703.1326 c -23.3854,-0.034 -42.795,4.7588 -50.2977,7.3913 l -7.726,41.715 c -0.034,0.135 38.4514,-10.26 55.3939,-9.6525 28.0563,1.0125 30.6383,10.7325 30.1488,23.8275 0.4793,0.7762 -7.2393,-11.8463 -31.509,-12.285 -30.6213,-0.5063 -73.8382,10.8675 -73.7775,57.0712 -0.8272,52.0088 38.8362,67.2975 65.8463,67.5675 24.2865,-0.4387 35.6772,-9.18 41.9142,-13.8712 8.1945,-8.5725 17.5702,-17.1788 26.5105,-27.54 -8.4577,15.39 -15.795,26.0212 -23.4292,34.155 v 6.8512 l 36.9124,-6.21 0.2531,-100.3387 c -0.3746,-14.2088 8.1472,-68.5463 -70.2405,-68.6813 z m -5.3055,87.3788 c 15.3023,0.2025 32.8488,7.7287 32.8758,25.8862 0.08,16.5375 -20.6853,25.4138 -34.1887,25.245 -13.5068,-0.135 -31.4313,-10.5975 -31.509,-26.6962 0.2599,-14.3775 16.902,-24.8063 32.8219,-24.435 z m 99.8865,-78.0975 -0.2497,166.1512 43.0042,-8.2687 0.072,-94.23 c 0,-14.0063 20.0475,-30.4088 45.1878,-30.1388 5.336,-9.6525 15.3665,-34.3237 17.81,-39.96 -56.1668,-0.135 -56.879,16.1663 -66.6495,24.165 -0.102,-15.2887 -0.034,-24.435 -0.034,-24.435 z m 242.0145,21.8025 c -0.405,-0.1688 -22.41,-25.7513 -66.69,-25.9538 -41.445,-0.675 -87.939,15.39 -88.6849,84.915 0.3645,61.0875 44.6647,84.9825 88.9212,85.455 47.385,0.4725 66.2175,-29.6325 67.365,-30.375 -5.67,-4.8937 -26.8313,-25.8862 -26.8313,-25.8862 0,0 -13.23,18.8325 -38.88,19.0687 -25.6602,0.27 -47.9622,-19.8112 -48.2794,-47.8237 -0.3308,-28.0125 20.5032,-43.2 48.4819,-44.415 24.1988,0 38.1713,15.6262 38.1713,15.6262 z m 54.2025,-79.9538 -40.6012,9.5513 0.3037,216.4387 39.9938,-7.2225 0.4725,-101.8575 c 0.067,-10.6987 15.4237,-27.1012 41.1075,-26.5612 24.5025,0.2362 30.0037,16.335 29.9362,18.36 l 0.7088,117.9225 39.42,-6.9525 0.1687,-125.0438 c 0.2363,-12.0487 -26.3587,-37.4287 -69.1537,-37.6312 -20.3175,0.034 -31.59,4.6575 -37.2938,8.0325 -9.8212,7.56 -21.0262,14.8162 -32.0287,24.0975 10.1925,-13.095 18.7312,-22.1063 27.0675,-28.8563 z"
+     id="path875" />
+</svg>

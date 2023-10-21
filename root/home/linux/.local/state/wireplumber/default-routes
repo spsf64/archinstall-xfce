@@ -1,0 +1,7 @@
+[default-routes]
+alsa_card.pci-0000_0b_00.1:output:hdmi-output-0:channelMap=FL;FR;
+alsa_card.pci-0000_0b_00.1:output:hdmi-output-0:channelVolumes=0.063989743590355;0.063989743590355;
+alsa_card.pci-0000_0b_00.1:output:hdmi-output-0:iec958Codecs=
+alsa_card.pci-0000_0b_00.1:output:hdmi-output-0:latencyOffsetNsec=0
+alsa_card.pci-0000_0b_00.1:profile:off=hdmi-output-0;
+alsa_card.pci-0000_0b_00.1:profile:output:hdmi-stereo=hdmi-output-0;

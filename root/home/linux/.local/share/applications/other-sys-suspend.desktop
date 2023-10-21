@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Suspend Now!
+Comment=Suspend System to RAM
+Icon=system-suspend-hibernate
+Exec=systemctl suspend
+Terminal=false
+Type=Application
+
+Path=
+StartupNotify=false

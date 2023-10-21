@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Docs
+Comment=Edit your Docs online with Google Account
+Icon=google-docs
+URL=https://docs.google.com/
+Categories=Office;GTK;

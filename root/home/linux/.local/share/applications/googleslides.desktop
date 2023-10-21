@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Slides
+Comment=Edit your Presentations online with Google Account
+Icon=google-slides
+URL=https://docs.google.com/presentation/
+Categories=Office;GTK;

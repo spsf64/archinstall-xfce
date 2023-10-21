@@ -1,0 +1,30 @@
+#Noticeable audio delay or audible pop/crack when starting playback
+#This is caused by node suspension when inactive.
+
+#With pipewire-media-session:
+#Disable this by editing /etc/pipewire/media-session.d/*-monitor.conf depending on where the delay occurs and changing property session.suspend-timeout-seconds to 0 to disable or experiment with other values and see what works.
+#Alternatively you can comment out the line suspend-node in /etc/pipewire/media-session.d/media-session.conf.
+#Restart both pipewire.service and pipewire-pulse.service to apply these changes, or alternatively reboot.
+
+#With wireplumber, create a new file to overwrite the default configuration:
+
+#~/.config/wireplumber/main.lua.d/51-disable-suspension.lua (or /etc/wireplumber/main.lua.d/51-disable-suspension.lua)
+#Instead of disabling suspension entirely, you can also change the timeout value to the desired number of seconds of delay before source suspension.
+
+
+table.insert (alsa_monitor.rules, {
+  matches = {
+    {
+      -- Matches all sources.
+      { "node.name", "matches", "alsa_input.*" },
+    },
+    {
+      -- Matches all sinks.
+      { "node.name", "matches", "alsa_output.*" },
+    },
+  },
+  apply_properties = {
+    ["session.suspend-timeout-seconds"] = 0,  -- 0 disables suspend
+  },
+})
+

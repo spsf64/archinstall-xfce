@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Get Updated Aur Packages
+Comment=Get precompiled AUR packages here!
+Icon=user-bookmarks
+URL=https://sourceforge.net/projects/arch-mod/files/aur-pkgs/

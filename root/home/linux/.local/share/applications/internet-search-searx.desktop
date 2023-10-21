@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Search Searx
+Icon=search
+URL=https://searx.garudalinux.org/
+Categories=Network;Internet
+Comment=Privacy-respecting metasearch engine

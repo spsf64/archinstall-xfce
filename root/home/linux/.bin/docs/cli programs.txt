@@ -1,0 +1,17 @@
+Installed cli programs:
+
+bc (calculator)
+fd
+htop
+links
+mc
+nmon
+rclone
+ranger
+rkhunter
+scrcpy (android emulator)
+sox (play)
+testdisk
+units
+youtubedl
+zsync

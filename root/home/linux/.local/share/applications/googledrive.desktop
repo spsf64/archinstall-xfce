@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Drive
+Comment=Save your Files online with Google Account
+Icon=google-drive
+URL=https://drive.google.com/
+Categories=Office;GTK;

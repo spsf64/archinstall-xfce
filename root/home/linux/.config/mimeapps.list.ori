@@ -1,0 +1,23 @@
+[Added Associations]
+text/plain=org.xfce.mousepad.desktop;
+application/x-theme=org.xfce.mousepad.desktop;
+text/css=org.xfce.mousepad.desktop;
+application/x-desktop=org.xfce.mousepad.desktop;
+image/png=org.xfce.ristretto.desktop;
+application/x-zstd-compressed-tar=pamac-install.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+x-scheme-handler/mailto=xfce4-mail-reader.desktop;
+inode/directory=xfce4-file-manager.desktop;
+x-scheme-handler/trash=xfce4-file-manager.desktop;
+image/jpeg=org.xfce.ristretto.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;
+
+[Default Applications]
+application/x-zstd-compressed-tar=pamac-install.desktop
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+x-scheme-handler/mailto=xfce4-mail-reader.desktop
+inode/directory=thunar.desktop
+x-scheme-handler/trash=xfce4-file-manager.desktop
+

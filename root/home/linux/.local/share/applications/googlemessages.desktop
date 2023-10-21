@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Messages
+Comment=Send and Receive SMS messages online with Google Account
+Icon=android-messages-desktop
+URL=https://messages.google.com/
+Categories=Office;GTK;

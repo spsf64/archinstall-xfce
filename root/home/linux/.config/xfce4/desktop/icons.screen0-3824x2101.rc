@@ -1,0 +1,35 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/linux/Desktop/New File]
+row=3
+col=0
+
+[/home/linux/Desktop/eos-aur-pkgs.txt]
+row=5
+col=0
+
+[/home/linux/Desktop/eos-pkgs.txt]
+row=6
+col=0
+
+[/home/linux/Desktop/eos-pkgs 1line.txt]
+row=7
+col=0
+
+[/home/linux/Desktop/appimage-pkgs and tweaks.txt]
+row=4
+col=0
+
+[Trash]
+row=2
+col=0
+
+[/]
+row=0
+col=0
+
+[/home/linux]
+row=1
+col=0
+
