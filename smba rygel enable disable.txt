@@ -1,0 +1,16 @@
+linux@archlinux ~> sudo systemctl enable smb.service nmb.service samba.service
+Created symlink /etc/systemd/system/multi-user.target.wants/smb.service → /usr/lib/systemd/system/smb.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/nmb.service → /usr/lib/systemd/system/nmb.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/samba.service → /usr/lib/systemd/system/samba.service.
+
+linux@archlinux ~> sudo systemctl disable smb.service nmb.service samba.service
+Removed "/etc/systemd/system/multi-user.target.wants/nmb.service".
+Removed "/etc/systemd/system/multi-user.target.wants/samba.service".
+Removed "/etc/systemd/system/multi-user.target.wants/smb.service".
+
+
+linux@archlinux ~> systemctl --user enable rygel.service
+Created symlink /home/linux/.config/systemd/user/default.target.wants/rygel.service → /usr/lib/systemd/user/rygel.service.
+
+linux@archlinux ~> systemctl --user disable rygel.service
+Removed "/home/linux/.config/systemd/user/default.target.wants/rygel.service".

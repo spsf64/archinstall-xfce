@@ -1,0 +1,150 @@
+aphototoollibre
+bitwarden
+cerebro
+cryptomator
+dbgate
+desktopeditors
+digikam
+ferdium
+filen
+jitsi
+kaiteki
+krita
+libreoffice
+librewolf
+linux_czkawka_gui
+ms-365-electron
+olive
+publii
+rustdesk
+session
+session-desktop
+whalebird
+
+
+Importar
+sudo pacman -Sw --needed - < eos-pkgs.txt
+
+Exportar
+pacman -Qqe ->pkgs.txt
+
+
+
+
+links:
+
+Other
+date-time
+groups-users
+suspend systemctl
+
+Office
+google-docs https://docs.google.com/
+google-drive https://drive.google.com/
+google-gmail https://mail.google.com/
+google-keep https://keep.google.com/
+google-meet https://meet.google.com/
+google-messages https://messages.google.com/
+google-sheets https://docs.google.com/spreadsheets/
+google-slides https://docs.google.com/presentation/
+msoffice https://www.office.com/
+
+Online Internet
+jitsi https://meet.jit.si/
+snapdrop https://snapdrop.net/
+whatsapp https://web.whatsapp.com/
+zoom https://join.zoom.us/
+
+Multimedia
+internetradio https://www.internet-radio.com/
+midomi https://www.midomi.com/
+fixes:
+
+https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium
+keyboard mkinitcpio usb external
+~.confg/gtk3 /gtk4
+fish /etc/passwd
+journald.conf
+templates
+thunar f4, f12, right click menus
+ucode
+vm.swappiness sysctl
+wireplumbr .conifg folder
+samba
+vivaldi default browser + email
+
+Fix for firewlld and others
+Edit qt5ct e qt6ct, icon adwaita, fonts liberation sans regular 9 e liberation sans mono regular 9
+
+Edit .config/gtk-3.0 and 4.0; theme Adwaita-dark, icons Adwaita. gtk3 .css, gtk4 settings.ini
+
+
+
+~/.profile 
+export QT_QPA_PLATFORMTHEME=qt6ct
+export QT_QPA_PLATFORMTHEME=qt5ct
+
+fish ~/.config/fish/config.fish
+#export PATH="$HOME/bin:$PATH"
+export PATH="$PATH:$HOME/.bin"
+#SWEETHOME3D_JAVA3D=1.6 sweethome3d
+export SWEETHOME3D_JAVA3D
+neofetch
+#figlet "This Is ArchLinux"
+figlet " FishShell"
+set fish_greeting
+
+set_color brown
+#D1BE1A
+
+
+fish ~/.config/fish/fish_variables
+SETUVAR fish_color_command:brown
+
+fish ~/local/share/fish/fish_history
+sudo cryptsetup convert --type luks2 /dev/sda222
+sudo cryptsetup luksChangeKey /dev/sda222 --iter-time 60
+
+Commands
+fstab: defaults,noatime,nodiscard,noautodefrag 00
+mogrify -format gif *.svg
+gifsicle --delay=100 --loop --colors 256 *.gif > anim.gif
+
+################################################################
+Vivaldi launch email view
+https://forum.vivaldi.net/topic/66692/how-to-start-vivaldi-in-email-mode-directly/12
+
+vivaldi-stable vivaldi://mail & or vivaldi vivaldi://mail &
+
+or use vivaldi-stable vivaldi://mail > /dev/null 2>&1 & if you don't want to see "error" messages in your terminal
+
+Then I guess you would need an alias in your .bashrc with that or the other one like
+
+alias vivm='vivaldi-stable vivaldi://mail &', to only need to type vivm, but I guess you know it already 🙂
+
+You could also put vivaldi://mail next to the executable path in your specific .desktop file if you use a DE.
+
+Google auto complete search vivaldi
+https://www.google.com/complete/search?client=chrome&q=%s
+################################################################
+
+################################################################
+Samba rygel enable disable
+
+linux@archlinux ~> sudo systemctl enable smb.service nmb.service samba.service
+Created symlink /etc/systemd/system/multi-user.target.wants/smb.service → /usr/lib/systemd/system/smb.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/nmb.service → /usr/lib/systemd/system/nmb.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/samba.service → /usr/lib/systemd/system/samba.service.
+
+linux@archlinux ~> sudo systemctl disable smb.service nmb.service samba.service
+Removed "/etc/systemd/system/multi-user.target.wants/nmb.service".
+Removed "/etc/systemd/system/multi-user.target.wants/samba.service".
+Removed "/etc/systemd/system/multi-user.target.wants/smb.service".
+
+
+linux@archlinux ~> systemctl --user enable rygel.service
+Created symlink /home/linux/.config/systemd/user/default.target.wants/rygel.service → /usr/lib/systemd/user/rygel.service.
+
+linux@archlinux ~> systemctl --user disable rygel.service
+Removed "/home/linux/.config/systemd/user/default.target.wants/rygel.service".
+################################################################

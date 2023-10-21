@@ -1,0 +1,62 @@
+linux@archlinux ~> sudo pacman -Syu
+[sudo] password for linux: 
+:: Synchronizing package databases...
+ core                                        128.5 KiB   880 KiB/s 00:00 [----------------------------------------] 100%
+ extra                                         8.3 MiB  21.2 MiB/s 00:00 [----------------------------------------] 100%
+ multilib                                    144.4 KiB   870 KiB/s 00:00 [----------------------------------------] 100%
+:: Starting full system upgrade...
+warning: acpi_call: local (1.2.2-153) is newer than extra (1.2.2-152)
+warning: broadcom-wl: local (6.30.223.271-497) is newer than extra (6.30.223.271-496)
+warning: linux: local (6.5.arch1-1) is newer than core (6.4.12.arch1-1)
+warning: r8168: local (8.051.02-66) is newer than extra (8.051.02-65)
+resolving dependencies...
+looking for conflicting packages...
+
+Package (41)                 Old Version   New Version   Net Change  Download Size
+
+extra/alsa-card-profiles     1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.03 MiB
+extra/aom                    3.6.1-1       3.7.0-1         0.03 MiB       2.81 MiB
+extra/freeimage              3.18.0-20     3.18.0-21       0.00 MiB       0.33 MiB
+extra/freetype2              2.13.1-1      2.13.2-1        0.00 MiB       0.51 MiB
+extra/gegl                   0.4.46-1      0.4.46-2        0.00 MiB       2.90 MiB
+core/glib2                   2.76.4-1      2.76.5-1        0.00 MiB       3.79 MiB
+extra/gst-libav              1.22.5-1      1.22.5-2        0.00 MiB       0.09 MiB
+extra/gst-plugin-gtk         1.22.5-1      1.22.5-2        0.00 MiB       0.04 MiB
+extra/gst-plugin-msdk        1.22.5-1      1.22.5-2        0.00 MiB       0.08 MiB
+extra/gst-plugin-pipewire    1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.05 MiB
+extra/gst-plugin-qml6        1.22.5-1      1.22.5-2        0.00 MiB       0.03 MiB
+extra/gst-plugin-qmlgl       1.22.5-1      1.22.5-2        0.00 MiB       0.06 MiB
+extra/gst-plugin-qsv         1.22.5-1      1.22.5-2        0.00 MiB       0.12 MiB
+extra/gst-plugin-va          1.22.5-1      1.22.5-2        0.00 MiB       0.16 MiB
+extra/gst-plugins-bad        1.22.5-1      1.22.5-2        0.00 MiB       1.09 MiB
+extra/gst-plugins-bad-libs   1.22.5-1      1.22.5-2        0.00 MiB       2.40 MiB
+extra/gst-plugins-base       1.22.5-1      1.22.5-2        0.00 MiB       0.31 MiB
+extra/gst-plugins-base-libs  1.22.5-1      1.22.5-2        0.00 MiB       2.18 MiB
+extra/gst-plugins-good       1.22.5-1      1.22.5-2        0.00 MiB       2.18 MiB
+extra/gst-plugins-ugly       1.22.5-1      1.22.5-2        0.00 MiB       0.21 MiB
+extra/gst-python             1.22.5-1      1.22.5-2        0.00 MiB       0.04 MiB
+extra/gstreamer              1.22.5-1      1.22.5-2        0.00 MiB       1.79 MiB
+extra/gstreamer-vaapi        1.22.5-1      1.22.5-2        0.00 MiB       0.31 MiB
+extra/imagemagick            7.1.1.15-2    7.1.1.15-3      0.00 MiB       8.17 MiB
+extra/libdeflate                           1.18-1          0.12 MiB       0.05 MiB
+extra/libjxl                 0.8.2-1       0.8.2-2         0.85 MiB       2.03 MiB
+extra/libpipewire            1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.37 MiB
+extra/libvips                8.14.2-1      8.14.2-2        0.01 MiB       1.77 MiB
+extra/opencolorio            2.2.1-11      2.2.1-12        0.00 MiB       2.04 MiB
+extra/openexr                3.1.11-1      3.2.0-2         0.14 MiB       1.21 MiB
+extra/pipewire               1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.63 MiB
+extra/pipewire-alsa          1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.00 MiB
+extra/pipewire-audio         1:0.3.78-1    1:0.3.79-1      0.01 MiB       1.11 MiB
+extra/pipewire-jack          1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.15 MiB
+extra/pipewire-pulse         1:0.3.78-1    1:0.3.79-1      0.01 MiB       0.17 MiB
+extra/pipewire-roc           1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.02 MiB
+extra/pipewire-v4l2          1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.04 MiB
+extra/pipewire-x11-bell      1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.01 MiB
+extra/pipewire-zeroconf      1:0.3.78-1    1:0.3.79-1      0.00 MiB       0.08 MiB
+extra/re2                    1:20230801-1  1:20230901-1    0.00 MiB       0.16 MiB
+extra/synfig                 1.4.4-4       1.4.4-5         0.03 MiB       2.82 MiB
+
+Total Download Size:    42.34 MiB
+Total Installed Size:  176.63 MiB
+Net Upgrade Size:        1.20 MiB
+
