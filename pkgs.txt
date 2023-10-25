@@ -214,6 +214,7 @@ swell-foop
 timeshift
 uget
 v4l-utils
+veracrypt
 vokoscreen
 vym
 warpinator
@@ -280,7 +281,6 @@ zz-synfigstudio
 zz-telegram-desktop
 zz-thunderbird
 zz-ufw
-zz-veracrypt
 zz-wireshark-qt
 zz-xapp
 zz-xed
