@@ -1,0 +1,34 @@
+[Desktop Entry]
+Version=1.0
+Name=Vivaldi
+# Only KDE 4 seems to use GenericName, so we reuse the KDE strings.
+# From Ubuntu's language-pack-kde-XX-base packages, version 9.04-20090413.
+GenericName=Web Browser
+GenericName[pt]=Navegador Web
+GenericName[pt_BR]=Navegador da Internet
+# Gnome and KDE 3 uses Comment.
+Comment=Access the Internet
+Comment[pt]=Aceder à Internet
+Comment[pt_BR]=Acessar a internet
+#Exec=/usr/bin/vivaldi-stable %U
+Exec=/usr/bin/chrome-stable %U --enable-blink-features=MiddleClickAutoscroll --test-type
+StartupNotify=true
+Terminal=false
+Icon=vivaldi
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=application/pdf;application/rdf+xml;application/rss+xml;application/xhtml+xml;application/xhtml_xml;application/xml;image/gif;image/jpeg;image/png;image/webp;text/html;text/xml;x-scheme-handler/ftp;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/mailto;
+Actions=new-window;new-private-window;
+Path=
+
+[Desktop Action new-window]
+Name=New Window
+Name[pt]=Nova janela
+Name[pt_BR]=Nova janela
+Exec=/usr/bin/vivaldi-stable --new-window
+
+[Desktop Action new-private-window]
+Name=New Private Window
+Name[pt]=Nova janela privada
+Name[pt_BR]=Nova janela privada
+Exec=/usr/bin/vivaldi-stable --incognito
