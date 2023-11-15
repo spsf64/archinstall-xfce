@@ -6,7 +6,7 @@
 
 #sudo cp /home/user/.bin/pacman.conf.noaur /etc/pacman.conf
 
-sudo cp ~/.bin/chrome-stable.desktop /usr/share/applications/chrome-stable.desktop
+sudo cp ~/.bin/google-chrome.desktop /usr/share/applications/google-chrome.desktop
 
 #sudo cp /~/bin/pacman.conf.noaur /etc/pacman.conf
 
