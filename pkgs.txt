@@ -107,6 +107,7 @@ figlet
 gifsicle
 glances
 gptfdisk
+gpxsee
 htop
 inxi
 lftp
