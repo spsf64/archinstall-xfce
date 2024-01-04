@@ -47,6 +47,7 @@ intel-ucode
 libva-mesa-driver
 linux-api-headers
 mesa
+mesa-vdpau
 network-manager-applet
 p7zip
 pacman-contrib
@@ -102,6 +103,7 @@ usbutils
 
 aria2
 ddgr
+fastfetch
 feh
 figlet
 gifsicle
@@ -115,7 +117,6 @@ lshw
 mc
 micro
 mpv
-neofetch
 nmap
 nmon
 ranger
@@ -201,6 +202,7 @@ qt6-multimedia-ffmpeg
 qt6-multimedia-gstreamer
 qtqr
 quodlibet
+radeontop
 redshift
 rmlint-shredder
 seahorse

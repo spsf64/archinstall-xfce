@@ -2,7 +2,7 @@
 export PATH="$PATH:$HOME/.bin"
 #SWEETHOME3D_JAVA3D=1.6 sweethome3d
 export SWEETHOME3D_JAVA3D
-neofetch
+fastfetch
 #figlet "This Is ArchLinux"
 figlet " FishShell"
 set fish_greeting

@@ -3,6 +3,7 @@ fox-cursor-git
 freefilesync-bin
 jamesdsp-pipewire-bin
 liftoff-bin
+naps2
 rclone-appmenu
 sirikali-bin
 syncthing-appmenu
