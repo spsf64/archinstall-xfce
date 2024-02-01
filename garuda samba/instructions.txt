@@ -1,0 +1,20 @@
+checking dependencies...
+
+Package (2)    Old Version  Net Change
+
+python-pysmbc  1.0.25.1-1    -0.07 MiB
+samba-support  1-7            0.00 MiB
+
+Total Removed Size:  0.07 MiB
+
+
+https://wiki.archlinux.org/title/avahi
+
+Using Avahi
+Hostname resolution
+Avahi provides local hostname resolution using a "hostname.local" naming scheme. To enable it, install the nss-mdns package and start/enable avahi-daemon.service.
+
+Then, edit the file /etc/nsswitch.conf and change the hosts line to include mdns_minimal [NOTFOUND=return] before resolve and dns:
+
+hosts: mymachines mdns_minimal [NOTFOUND=return] resolve [!UNAVAIL=return] files myhostname dns
+

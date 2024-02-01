@@ -130,6 +130,7 @@ xorg-xkill
 yt-dlp
 zsync
 
+adriconf
 aisleriot
 alacarte
 arandr
