@@ -206,6 +206,7 @@ quodlibet
 radeontop
 redshift
 rmlint-shredder
+rnote
 seahorse
 shotcut
 simple-scan
